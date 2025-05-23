@@ -37,4 +37,4 @@ Este repositório não é apenas um guia, mas um **diário de desenvolvimento**.
 
 [Orientação a Objetos](https://github.com/Jefhter/php-learning/blob/main/content/OOP.md)
 
-[Pasta de Códigos](https://github.com/Jefhter/php-learning/scripts/)
+[Pasta de Códigos](https://github.com/Jefhter/php-learning/tree/main/scripts)
