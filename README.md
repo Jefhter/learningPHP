@@ -29,12 +29,12 @@ Este repositório não é apenas um guia, mas um **diário de desenvolvimento**.
 
 ## Corpo dos Conteúdos
 
-[Guia de Aprendizado](https://github.com/Jefhter/php-learning/content/Roadmap-PHP.md)
+[Guia de Aprendizado](https://github.com/Jefhter/php-learning/blob/main/content/Roadmap-PHP.md)
 
-[Introdução](https://github.com/Jefhter/php-learning/content/Intro.md)
+[Introdução](https://github.com/Jefhter/php-learning/blob/main/content/Intro.md)
 
-[Conceitos Básicos](https://github.com/Jefhter/php-learning/content/Conceitos-Base.md)
+[Conceitos Básicos](https://github.com/Jefhter/php-learning/blob/main/content/Conceitos-Base.md)
 
-[Orientação a Objetos](https://github.com/Jefhter/php-learning/content/OOP.md)
+[Orientação a Objetos](https://github.com/Jefhter/php-learning/blob/main/content/OOP.md)
 
 [Pasta de Códigos](https://github.com/Jefhter/php-learning/scripts/)
